@@ -2,12 +2,12 @@
 ::selection
 {
   background-color:transparent;
-  color:#000000;
+  color:##327320;
 }
 ::moz-selection
 {
   background-color:transparent;
-  color:#000000;
+  color:##327320;
 }
 body {
   margin: 0;
@@ -23,7 +23,7 @@ h1
   color:transparent;
   font-size:12em;
   text-transform:uppercase;
-  -webkit-text-stroke: 5px #fff;
+  -webkit-text-stroke: 6px #fff;
 }
 canvas {
   display: block;
